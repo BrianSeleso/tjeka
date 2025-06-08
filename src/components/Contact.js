@@ -50,7 +50,7 @@ function Contact() {
           ),
           React.createElement('div', { className: 'info-item' },
             React.createElement('i', { className: 'fas fa-phone' }),
-            React.createElement('p', null, '2250 0347')
+            React.createElement('p', null, '+266 2250 0347')
           ),
           React.createElement('div', { className: 'info-item' },
             React.createElement('i', { className: 'fas fa-envelope' }),
